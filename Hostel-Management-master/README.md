@@ -54,3 +54,4 @@
 PRs welcome. Big ideas? Open an issue first so we can panic together constructively.
 
 Tests: `npm test --prefix frontend` (Vitest; add tests if you’re feeling brave).
+Practicing Git with VS Code
